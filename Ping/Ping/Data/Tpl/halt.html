@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Error</title>
+</head>
+<body>
+
+<ul style="background: #f5f5f5;padding: 10px;list-style: none;border-radius: 5px;line-height: 32px;border:1px solid red;">
+  <li> 错误信息--><?php echo $e['message']?></li>
+
+  <?php if(DEBUG && isset($e['file'])): ?>
+
+    <li> 错误位置--><?php echo $e['file']."@Line-->".$e['line']?></li>  
+
+  <?php endif ?>
+
+  <?php if(DEBUG && isset($e['trace'])): ?>
+
+    <li> 错误信息--><?php echo nl2br($e['trace'])?></li>
+
+  <?php endif ?>
+
+</ul>
+
+</body>
+</html>

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Success</title>
+	<script type="text/javascript" src='http://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js'></script>
+	<script type="text/javascript" src='http://apps.bdimg.com/libs/layer/2.1/layer.js'></script>
+</head>
+<body>
+
+<script type="text/javascript">
+	
+//页面层-自定义
+layer.open({
+  type: 1,
+  title: false,
+  shadeClose: true,
+  content: '<div style="line-height:60px;background:red;color:#fff;">&nbsp;&nbsp;&nbsp;&nbsp;<?php echo $msg; ?></div>',
+  offset:'15px',
+   area: ['700px', '60px'], //宽高
+   time:'<?php echo $time*1000;?>',
+  end: function(){
+    location.href ='<?php echo $url;?>'
+  }
+});
+</script>
+
+</body>
+</html>
