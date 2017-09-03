@@ -1,0 +1,30 @@
+[TIME]2017-08-29 23:34:35 ERROR: 数据库连接失败，请检查配置项
+[TIME]2017-08-29 23:35:07 ERROR: 数据库连接失败，请检查配置项
+[TIME]2017-08-29 23:35:08 ERROR: 数据库连接失败，请检查配置项
+[TIME]2017-08-29 23:35:09 ERROR: 数据库连接失败，请检查配置项
+[TIME]2017-08-29 23:35:09 ERROR: 数据库连接失败，请检查配置项
+[TIME]2017-08-29 23:35:09 ERROR: 数据库连接失败，请检查配置项
+[TIME]2017-08-29 23:35:10 ERROR: 数据库连接失败，请检查配置项
+[TIME]2017-08-29 23:35:10 ERROR: 数据库连接失败，请检查配置项
+[TIME]2017-08-29 23:35:20 ERROR: sql错误:@<br/>SQL:select * from k_user
+[TIME]2017-08-29 23:35:58 ERROR: sql错误:@<br/>SQL:select * from k_user
+[TIME]2017-08-29 23:38:02 ERROR: sql错误:@<br/>SQL:select * from k_user
+[TIME]2017-08-29 23:38:02 ERROR: sql错误:@<br/>SQL:select * from k_user
+[TIME]2017-08-29 23:38:03 ERROR: sql错误:@<br/>SQL:select * from k_user
+[TIME]2017-08-29 23:38:46 ERROR: sql错误:@<br/>SQL:select * from k_user
+[TIME]2017-08-29 23:38:47 ERROR: sql错误:@<br/>SQL:select * from k_user
+[TIME]2017-08-29 23:39:02 ERROR: sql错误:@<br/>SQL:select * from k_user
+[TIME]2017-08-29 23:39:03 ERROR: sql错误:@<br/>SQL:select * from k_user
+[TIME]2017-08-29 23:39:03 ERROR: sql错误:@<br/>SQL:select * from k_user
+[TIME]2017-08-29 23:39:03 ERROR: sql错误:@<br/>SQL:select * from k_user
+[TIME]2017-08-29 23:39:04 ERROR: sql错误:@<br/>SQL:select * from k_user
+[TIME]2017-08-29 23:39:04 ERROR: sql错误:@<br/>SQL:select * from k_user
+[TIME]2017-08-29 23:39:04 ERROR: sql错误:@<br/>SQL:select * from k_user
+[TIME]2017-08-29 23:42:27 ERROR: sql错误:1064@You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'frcom k_user' at line 1<br/>SQL:select * frcom k_user
+[TIME]2017-08-29 23:49:55 ERROR: Call to undefined method PDOStatement::fetch_assoc()/aaa/Ping/Ping/Extends/Tool/Model.class.php第47行
+[TIME]2017-08-29 23:50:20 ERROR: Call to undefined method PDOStatement::fetch_assoc()/aaa/Ping/Ping/Extends/Tool/Model.class.php第47行
+[TIME]2017-08-29 23:50:21 ERROR: Call to undefined method PDOStatement::fetch_assoc()/aaa/Ping/Ping/Extends/Tool/Model.class.php第47行
+[TIME]2017-08-29 23:50:22 ERROR: Call to undefined method PDOStatement::fetch_assoc()/aaa/Ping/Ping/Extends/Tool/Model.class.php第47行
+[TIME]2017-08-29 23:51:41 ERROR: Call to a member function free() on null/aaa/Ping/Ping/Extends/Tool/Model.class.php第53行
+[TIME]2017-08-29 23:51:51 ERROR: Call to undefined method PDOStatement::free()/aaa/Ping/Ping/Extends/Tool/Model.class.php第53行
+[TIME]2017-08-29 23:54:59 ERROR: syntax error, unexpected ')'/aaa/Ping/Ping/Extends/Tool/Model.class.php第47行

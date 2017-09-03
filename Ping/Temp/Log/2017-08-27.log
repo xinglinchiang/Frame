@@ -1,0 +1,43 @@
+[TIME]2017-08-27 01:38:55 ERROR: Call to undefined method PDO::set_characterset()/aaa/Ping/Ping/Extends/Tool/Model.class.php第44行
+[TIME]2017-08-27 12:02:44 ERROR: 数据库连接失败，请检查配置项
+[TIME]2017-08-27 12:02:57 ERROR: 数据库连接失败，请检查配置项
+[TIME]2017-08-27 13:40:10 ERROR: syntax error, unexpected '='/aaa/Ping/Ping/Extends/Tool/Model.class.php第49行
+[TIME]2017-08-27 13:55:59 ERROR: Call to undefined function dump()/aaa/Ping/Ping/Extends/Tool/Model.class.php第67行
+[TIME]2017-08-27 13:59:23 ERROR: Call to undefined method PDO::error()/aaa/Ping/Ping/Extends/Tool/Model.class.php第38行
+[TIME]2017-08-27 14:01:07 ERROR: Call to undefined method PDO::error()/aaa/Ping/Ping/Extends/Tool/Model.class.php第38行
+[TIME]2017-08-27 14:04:12 ERROR: sql错误<br/>
+[TIME]2017-08-27 14:04:31 ERROR: sql错误<br/>42S02
+[TIME]2017-08-27 14:04:59 ERROR: Call to undefined method PDO::getMessage()/aaa/Ping/Ping/Extends/Tool/Model.class.php第38行
+[TIME]2017-08-27 14:05:14 ERROR: Call to a member function getMessage() on null/aaa/Ping/Ping/Extends/Tool/Model.class.php第38行
+[TIME]2017-08-27 14:05:28 ERROR: sql错误<br/>
+[TIME]2017-08-27 14:06:39 ERROR: sql错误<br/>
+[TIME]2017-08-27 14:06:59 ERROR: sql错误<br/>SQL:select * form k_user
+[TIME]2017-08-27 14:09:53 ERROR: Call to undefined method PDO::error_get_last()/aaa/Ping/Ping/Extends/Tool/Model.class.php第38行
+[TIME]2017-08-27 14:10:04 ERROR: sql错误Array<br/>SQL:select * form k_user
+[TIME]2017-08-27 14:10:24 ERROR: sql错误42000<br/>SQL:select * form k_user
+[TIME]2017-08-27 14:12:41 ERROR: syntax error, unexpected '->' (T_OBJECT_OPERATOR)/aaa/Ping/Ping/Extends/Tool/Model.class.php第38行
+[TIME]2017-08-27 14:12:53 ERROR: syntax error, unexpected '->' (T_OBJECT_OPERATOR)/aaa/Ping/Ping/Extends/Tool/Model.class.php第38行
+[TIME]2017-08-27 14:13:01 ERROR: sql错误42000<br/>SQL:select * form k_user
+[TIME]2017-08-27 14:13:14 ERROR: sql错误42S02<br/>SQL:select * from k_user
+[TIME]2017-08-27 14:19:25 ERROR: syntax error, unexpected '$re' (T_VARIABLE), expecting ',' or ';'/aaa/Ping/Ping/Extends/Tool/Model.class.php第46行
+[TIME]2017-08-27 14:23:09 ERROR: sql错误42S02<br/>SQL:select * from k_user
+[TIME]2017-08-27 14:23:45 ERROR: syntax error, unexpected '{', expecting '('/aaa/Ping/Ping/Extends/Tool/Model.class.php第41行
+[TIME]2017-08-27 14:25:03 ERROR: sql错误42S02<br/>SQL:select * from k_user
+[TIME]2017-08-27 14:27:18 ERROR: Call to undefined method PDO::getMessage()/aaa/Ping/Ping/Extends/Tool/Model.class.php第39行
+[TIME]2017-08-27 14:27:33 ERROR: Call to a member function getMessage() on boolean/aaa/Ping/Ping/Extends/Tool/Model.class.php第39行
+[TIME]2017-08-27 14:30:56 ERROR: sql错误42S02<br/>SQL:select * from k_user
+[TIME]2017-08-27 14:31:13 ERROR: sql错误Table 'test.k_user' doesn't exist<br/>SQL:select * from k_user
+[TIME]2017-08-27 14:31:43 ERROR: sql错误42S021146Table 'test.k_user' doesn't exist<br/>SQL:select * from k_user
+[TIME]2017-08-27 14:31:55 ERROR: sql错误1146Table 'test.k_user' doesn't exist<br/>SQL:select * from k_user
+[TIME]2017-08-27 14:32:07 ERROR: sql错误1146@Table 'test.k_user' doesn't exist<br/>SQL:select * from k_user
+[TIME]2017-08-27 14:32:32 ERROR: sql错误:1146@Table 'test.k_user' doesn't exist<br/>SQL:select * from k_user
+[TIME]2017-08-27 14:33:48 ERROR: sql错误:1146@Table 'test.k_user' doesn't exist<br/>SQL:select * from k_user
+[TIME]2017-08-27 14:40:00 ERROR: sql错误:1146@Table 'test.k_user' doesn't exist<br/>SQL:select * from k_user
+[TIME]2017-08-27 14:40:02 ERROR: sql错误:1146@Table 'test.k_user' doesn't exist<br/>SQL:select * from k_user
+[TIME]2017-08-27 14:40:22 ERROR: sql错误:@<br/>SQL:select * from k_user
+[TIME]2017-08-27 14:40:25 ERROR: sql错误:@<br/>SQL:select * from k_user
+[TIME]2017-08-27 14:40:25 ERROR: sql错误:@<br/>SQL:select * from k_user
+[TIME]2017-08-27 14:40:26 ERROR: sql错误:@<br/>SQL:select * from k_user
+[TIME]2017-08-27 14:40:26 ERROR: sql错误:@<br/>SQL:select * from k_user
+[TIME]2017-08-27 14:40:27 ERROR: sql错误:@<br/>SQL:select * from k_user
+[TIME]2017-08-27 14:40:45 ERROR: sql错误:@<br/>SQL:select * from k_user

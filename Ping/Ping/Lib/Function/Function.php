@@ -1,5 +1,18 @@
 <?php
 
+    //
+    function K($model)
+    {
+        $model .= 'Model';
+        return new $model;
+    }
+
+    //
+    function M($table)
+    {
+        $obj = new Model($table);
+        return $obj;
+    }
 
     //打印常量
     function p_conost()

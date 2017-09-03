@@ -1,0 +1,45 @@
+[TIME]2017-09-02 20:53:57 ERROR: sql错误:1064@You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* FROM k_user' at line 1<br/>SQL:SELECT * FROM * FROM k_user
+[TIME]2017-09-02 20:54:18 ERROR: sql错误:1064@You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* FROM k_user' at line 1<br/>SQL:SELECT * FROM * FROM k_user
+[TIME]2017-09-02 20:54:27 ERROR: sql错误:1064@You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* FROM k_user' at line 1<br/>SQL:SELECT * FROM * FROM k_user
+[TIME]2017-09-02 20:54:27 ERROR: sql错误:1064@You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* FROM k_user' at line 1<br/>SQL:SELECT * FROM * FROM k_user
+[TIME]2017-09-02 20:54:28 ERROR: sql错误:1064@You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* FROM k_user' at line 1<br/>SQL:SELECT * FROM * FROM k_user
+[TIME]2017-09-02 20:54:28 ERROR: sql错误:1064@You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '* FROM k_user' at line 1<br/>SQL:SELECT * FROM * FROM k_user
+[TIME]2017-09-02 21:04:10 ERROR: Call to undefined method Model::field()/aaa/Ping/Index/Controller/IndexController.class.php第7行
+[TIME]2017-09-02 21:04:28 ERROR: Call to undefined method Model::field()/aaa/Ping/Index/Controller/IndexController.class.php第7行
+[TIME]2017-09-02 21:04:29 ERROR: Call to undefined method Model::field()/aaa/Ping/Index/Controller/IndexController.class.php第7行
+[TIME]2017-09-02 21:04:57 ERROR: Call to a member function all() on null/aaa/Ping/Index/Controller/IndexController.class.php第7行
+[TIME]2017-09-02 21:06:39 ERROR: sql错误:1064@You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '1' at line 1<br/>SQL:SELECT uname FROM k_useruname = 1
+[TIME]2017-09-02 21:06:57 ERROR: sql错误:1064@You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '= 1' at line 1<br/>SQL:SELECT uname FROM k_user uname = 1
+[TIME]2017-09-02 21:10:02 ERROR: sql错误:1054@Unknown column 'one' in 'where clause'<br/>SQL:SELECT uname FROM k_user WHERE  uname = one
+[TIME]2017-09-02 21:35:56 ERROR: Cannot use [] for reading/aaa/Ping/Ping/Extends/Tool/Model.class.php第35行
+[TIME]2017-09-02 21:37:02 ERROR: sql errorfdfa
+[TIME]2017-09-02 21:37:19 ERROR: 请用query方法按发送sql
+[TIME]2017-09-02 21:38:43 ERROR: 请用query方法按发送sql
+[TIME]2017-09-02 21:39:52 ERROR: sql errorinsert into k_user (`id`,`uname`) VALUES ("3","three")
+[TIME]2017-09-02 21:40:53 ERROR: 请用query方法按发送sql
+[TIME]2017-09-02 21:41:25 ERROR: 请用query方法按发送sql
+[TIME]2017-09-02 21:41:26 ERROR: 请用query方法按发送sql
+[TIME]2017-09-02 21:41:26 ERROR: 请用query方法按发送sql
+[TIME]2017-09-02 21:41:26 ERROR: 请用query方法按发送sql
+[TIME]2017-09-02 21:41:27 ERROR: 请用query方法按发送sql
+[TIME]2017-09-02 21:41:27 ERROR: 请用query方法按发送sql
+[TIME]2017-09-02 21:41:27 ERROR: 请用query方法按发送sql
+[TIME]2017-09-02 21:41:28 ERROR: 请用query方法按发送sql
+[TIME]2017-09-02 21:55:29 ERROR: syntax error, unexpected '；' (T_STRING)/aaa/Ping/Ping/Extends/Tool/Model.class.php第35行
+[TIME]2017-09-02 21:55:46 ERROR: 删除语句必须有where条件
+[TIME]2017-09-02 22:10:55 ERROR: Call to undefined method Model::add()/aaa/Ping/Index/Controller/IndexController.class.php第12行
+[TIME]2017-09-02 22:11:04 ERROR: /aaa/Ping/Index/Tpl/Index/index.html模板文件不存在
+[TIME]2017-09-02 22:11:14 ERROR: /aaa/Ping/Index/Tpl/Index/index.html模板文件不存在
+[TIME]2017-09-02 22:21:26 ERROR: Call to undefined method PDO::real_escape_string()/aaa/Ping/Ping/Extends/Tool/Model.class.php第183行
+[TIME]2017-09-02 22:30:20 ERROR: Call to undefined method PDO::addslashes()/aaa/Ping/Ping/Extends/Tool/Model.class.php第183行
+[TIME]2017-09-02 22:39:40 ERROR: [] operator not supported for strings/aaa/Ping/Ping/Extends/Tool/Model.class.php第44行
+[TIME]2017-09-02 22:46:00 ERROR: syntax error, unexpected ';'/aaa/Ping/Index/Controller/IndexController.class.php第9行
+[TIME]2017-09-02 22:46:15 ERROR: syntax error, unexpected ';'/aaa/Ping/Index/Controller/IndexController.class.php第9行
+[TIME]2017-09-02 22:46:20 ERROR: syntax error, unexpected ';'/aaa/Ping/Index/Controller/IndexController.class.php第9行
+[TIME]2017-09-02 22:46:36 ERROR: syntax error, unexpected ';'/aaa/Ping/Index/Controller/IndexController.class.php第9行
+[TIME]2017-09-02 22:46:53 ERROR: syntax error, unexpected ';'/aaa/Ping/Index/Controller/IndexController.class.php第9行
+[TIME]2017-09-02 22:47:06 ERROR: syntax error, unexpected ';'/aaa/Ping/Index/Controller/IndexController.class.php第9行
+[TIME]2017-09-02 22:57:20 ERROR: syntax error, unexpected '$this' (T_VARIABLE)/aaa/Ping/Ping/Extends/Tool/Model.class.php第210行
+[TIME]2017-09-02 23:08:04 ERROR: sql errorUPDATE k_user SET `uname` = '2',`upwd` = '2' WHERE 1=1
+[TIME]2017-09-02 23:19:27 ERROR: 类未找到
+[TIME]2017-09-02 23:26:22 ERROR: Class 'userModel' not found/aaa/Ping/Ping/Lib/Function/Function.php第7行

@@ -1,0 +1,18 @@
+[TIME]2017-09-03 00:19:48 ERROR: Call to private method SmartyView::display() from context 'Controller'/aaa/Ping/Ping/Lib/Core/Controller.class.php第45行
+[TIME]2017-09-03 00:20:06 ERROR: Call to private method SmartyView::display() from context 'Controller'/aaa/Ping/Ping/Lib/Core/Controller.class.php第44行
+[TIME]2017-09-03 00:28:45 ERROR: 模板文件不存在
+[TIME]2017-09-03 00:42:49 ERROR: 类未找到
+[TIME]2017-09-03 00:43:03 ERROR: 类未找到
+[TIME]2017-09-03 00:43:33 ERROR: 类未找到
+[TIME]2017-09-03 00:43:46 ERROR: 类未找到
+[TIME]2017-09-03 00:45:11 ERROR: 类未找到
+[TIME]2017-09-03 00:47:05 ERROR: 请先开启Smary
+[TIME]2017-09-03 00:47:13 ERROR: 类未找到
+[TIME]2017-09-03 00:50:41 ERROR: 类未找到
+[TIME]2017-09-03 00:50:45 ERROR: 类未找到
+[TIME]2017-09-03 00:50:46 ERROR: 类未找到
+[TIME]2017-09-03 00:53:41 ERROR: 类未找到
+[TIME]2017-09-03 00:53:49 ERROR: 类未找到
+[TIME]2017-09-03 00:54:02 ERROR: 类未找到
+[TIME]2017-09-03 00:54:36 ERROR: 类未找到
+[TIME]2017-09-03 00:59:22 ERROR: Call to undefined method IndexController::isCached()/aaa/Ping/Index/Controller/IndexController.class.php第9行

@@ -1,0 +1,6 @@
+[TIME]2017-08-26 23:36:28 ERROR: syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ',' or ';'/aaa/Ping/Ping/Extends/Tool/Model.class.php第9行
+[TIME]2017-08-26 23:36:55 ERROR: syntax error, unexpected '{'/aaa/Ping/Ping/Extends/Tool/Model.class.php第24行
+[TIME]2017-08-26 23:37:14 ERROR: syntax error, unexpected '；' (T_STRING)/aaa/Ping/Ping/Extends/Tool/Model.class.php第32行
+[TIME]2017-08-26 23:37:29 ERROR: Call to undefined method Model::connect()/aaa/Ping/Ping/Extends/Tool/Model.class.php第18行
+[TIME]2017-08-26 23:38:44 ERROR: Call to undefined method mysqli::connect_error()/aaa/Ping/Ping/Extends/Tool/Model.class.php第32行
+[TIME]2017-08-26 23:39:35 ERROR: Call to undefined method mysqli::connect_error()/aaa/Ping/Ping/Extends/Tool/Model.class.php第32行

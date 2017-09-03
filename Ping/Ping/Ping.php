@@ -34,6 +34,7 @@ final class  Ping
         define('APP_TPL_PATH',APP_PATH.'/Tpl');
         define('APP_PUBLIC_PATH',APP_TPL_PATH.'/Public');
 
+
         //创建公共
         define('COMMON_PATH', ROOT_PATH.'/Common');
         //公共配置项
@@ -60,8 +61,8 @@ final class  Ping
         }else{
             define('IS_AJAX', false);
         }
-        
-        
+        define('APP_COMPILE_PATH', TEMP_PATH.'/'.APP_NAME.'/Compile');
+        define('APP_CACHE_PATH',TEMP_PATH.'/'.APP_NAME.'/Cache');
 
     }
 
@@ -75,7 +76,8 @@ final class  Ping
             APP_PUBLIC_PATH,
             TEMP_PATH,
             LOG_PATH,
-            COMMON_LIB_PATH,COMMON_MODEL_PATH,COMMON_CONFIG_PATH
+            COMMON_LIB_PATH,COMMON_MODEL_PATH,COMMON_CONFIG_PATH,
+            APP_COMPILE_PATH,APP_CACHE_PATH,
 
         );
         foreach ($arr as $v){
@@ -91,8 +93,10 @@ final class  Ping
     {
         $fileArr = array(
            
+            ORG_PATH.'/Smarty/Smarty.class.php', 
+            CORE_PATH.'/SmartyView.class.php',  
             CORE_PATH.'/Controller.class.php',  
-            CORE_PATH.'/Log.class.php',  
+            CORE_PATH.'/Log.class.php', 
             FUNCTION_PATH.'/Function.php',
             CORE_PATH.'/Application.class.php',
         );

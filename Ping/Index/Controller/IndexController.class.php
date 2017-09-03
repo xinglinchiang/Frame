@@ -3,7 +3,12 @@
     {
         Public function index()
         {
-          ;hfghgsh
+
+        	//P(get_class_methods('Smarty'));
+
+        
+ 			$this->display();
         }
+
     }
 ?>
